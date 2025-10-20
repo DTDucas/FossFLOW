@@ -1,0 +1,162 @@
+{
+  "name": "AWS Category Icons",
+  "id": "aws-category",
+  "icons": [
+    {
+      "id": "aws-category-agents",
+      "name": "Agents",
+      "category": "General",
+      "url": "Agents/SVG/Agents-512-color.svg"
+    },
+    {
+      "id": "aws-category-ai-machine-learning",
+      "name": "AI Machine Learning",
+      "category": "General",
+      "url": "AI _ Machine Learning/SVG/AIMachineLearning-512-color.svg"
+    },
+    {
+      "id": "aws-category-business-intelligence",
+      "name": "Business Intelligence",
+      "category": "General",
+      "url": "Business Intelligence/SVG/BusinessIntelligence-512-color.svg"
+    },
+    {
+      "id": "aws-category-collaboration",
+      "name": "Collaboration",
+      "category": "General",
+      "url": "Collaboration/SVG/Collaboration-512-color.svg"
+    },
+    {
+      "id": "aws-category-compute",
+      "name": "Compute",
+      "category": "General",
+      "url": "Compute/SVG/Compute-512-color.svg"
+    },
+    {
+      "id": "aws-category-containers",
+      "name": "Containers",
+      "category": "General",
+      "url": "Containers/SVG/Containers-512-color.svg"
+    },
+    {
+      "id": "aws-category-data-analytics",
+      "name": "Data Analytics",
+      "category": "General",
+      "url": "Data Analytics/SVG/DataAnalytics-512-color.svg"
+    },
+    {
+      "id": "aws-category-databases",
+      "name": "Databases",
+      "category": "General",
+      "url": "Databases/SVG/Databases-512-color.svg"
+    },
+    {
+      "id": "aws-category-developer-tools",
+      "name": "Developer Tools",
+      "category": "General",
+      "url": "Developer Tools/SVG/Developer_Tools-512-color.svg"
+    },
+    {
+      "id": "aws-category-devops",
+      "name": "DevOps",
+      "category": "General",
+      "url": "DevOps/SVG/DevOps-512-color.svg"
+    },
+    {
+      "id": "aws-category-hybrid-multicloud",
+      "name": "Hybrid Multicloud",
+      "category": "General",
+      "url": "Hybrid & Multicloud/SVG/HybridMulticloud-512-color.svg"
+    },
+    {
+      "id": "aws-category-integration-services",
+      "name": "Integration Services",
+      "category": "General",
+      "url": "Integration Services/SVG/IntegrationServices-512-color.svg"
+    },
+    {
+      "id": "aws-category-management-tools",
+      "name": "Management Tools",
+      "category": "General",
+      "url": "Management Tools/SVG/ManagementTools-512-color.svg"
+    },
+    {
+      "id": "aws-category-maps-geospatial",
+      "name": "Maps Geospatial",
+      "category": "General",
+      "url": "Maps & Geospatial/SVG/MapsGeospatial-512-color.svg"
+    },
+    {
+      "id": "aws-category-marketplace",
+      "name": "Marketplace",
+      "category": "General",
+      "url": "Marketplace/SVG/Marketplace-512-color.svg"
+    },
+    {
+      "id": "aws-category-media-services",
+      "name": "Media Services",
+      "category": "General",
+      "url": "Media Services/SVG/MediaServices-512-color.svg"
+    },
+    {
+      "id": "aws-category-migration",
+      "name": "Migration",
+      "category": "General",
+      "url": "Migration/SVG/Migration-512-color.svg"
+    },
+    {
+      "id": "aws-category-mixed-reality",
+      "name": "Mixed Reality",
+      "category": "General",
+      "url": "Mixed Reality/SVG/MixedReality-512-color.svg"
+    },
+    {
+      "id": "aws-category-networking",
+      "name": "Networking",
+      "category": "General",
+      "url": "Networking/SVG/Networking-512-color-rgb.svg"
+    },
+    {
+      "id": "aws-category-observability",
+      "name": "Observability",
+      "category": "General",
+      "url": "Observability/SVG/Observability-512-color.svg"
+    },
+    {
+      "id": "aws-category-operations",
+      "name": "Operations",
+      "category": "General",
+      "url": "Operations/SVG/Operations-512-color.svg"
+    },
+    {
+      "id": "aws-category-security-identity",
+      "name": "Security Identity",
+      "category": "General",
+      "url": "Security Identity/SVG/SecurityIdentity-512-color.svg"
+    },
+    {
+      "id": "aws-category-serverless-computing",
+      "name": "Serverless Computing",
+      "category": "General",
+      "url": "Serverless Computing/SVG/ServerlessComputing-512-color.svg"
+    },
+    {
+      "id": "aws-category-storage",
+      "name": "Storage",
+      "category": "General",
+      "url": "Storage/SVG/Storage-512-color.svg"
+    },
+    {
+      "id": "aws-category-web-mobile",
+      "name": "Web Mobile",
+      "category": "General",
+      "url": "Web & Mobile/SVG/WebMobile-512-color.svg"
+    },
+    {
+      "id": "aws-category-web3",
+      "name": "Web3",
+      "category": "General",
+      "url": "Web3/SVG/Web3-512-color.svg"
+    }
+  ]
+}

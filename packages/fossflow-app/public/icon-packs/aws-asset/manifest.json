@@ -1,0 +1,132 @@
+{
+  "name": "AWS Asset Icons",
+  "id": "aws-asset",
+  "icons": [
+    {
+      "id": "aws-asset-analytics-athena",
+      "name": "Analytics Athena",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-Athena_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-cloudsearch",
+      "name": "Analytics CloudSearch",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-CloudSearch_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-data-firehose",
+      "name": "Analytics Data Firehose",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-Data-Firehose_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-datazone",
+      "name": "Analytics DataZone",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-DataZone_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-emr",
+      "name": "Analytics EMR",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-EMR_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-finspace",
+      "name": "Analytics FinSpace",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-FinSpace_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-kinesis-data-streams",
+      "name": "Analytics Kinesis Data Streams",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-Kinesis-Data-Streams_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-kinesis-video-streams",
+      "name": "Analytics Kinesis Video Streams",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-Kinesis-Video-Streams_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-kinesis",
+      "name": "Analytics Kinesis",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-Kinesis_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-managed-service-for-apache-flink",
+      "name": "Analytics Managed Service for Apache Flink",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-Managed-Service-for-Apache-Flink_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-managed-streaming-for-apache-kafka",
+      "name": "Analytics Managed Streaming for Apache Kafka",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-Managed-Streaming-for-Apache-Kafka_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-opensearch-service",
+      "name": "Analytics OpenSearch Service",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-OpenSearch-Service_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-quicksight",
+      "name": "Analytics QuickSight",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-QuickSight_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-redshift",
+      "name": "Analytics Redshift",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-Redshift_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-sagemaker",
+      "name": "Analytics SageMaker",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_Amazon-SageMaker_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-clean-rooms",
+      "name": "Analytics Clean Rooms",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_AWS-Clean-Rooms_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-data-exchange",
+      "name": "Analytics Data Exchange",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_AWS-Data-Exchange_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-entity-resolution",
+      "name": "Analytics Entity Resolution",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_AWS-Entity-Resolution_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-glue-databrew",
+      "name": "Analytics Glue DataBrew",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_AWS-Glue-DataBrew_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-glue",
+      "name": "Analytics Glue",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_AWS-Glue_64.svg"
+    },
+    {
+      "id": "aws-asset-analytics-lake-formation",
+      "name": "Analytics Lake Formation",
+      "category": "Analytics",
+      "url": "Architecture-Service-Icons_07312025/Arch_Analytics/64/Arch_AWS-Lake-Formation_64.svg"
+    }
+  ]
+}

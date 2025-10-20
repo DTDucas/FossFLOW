@@ -1,0 +1,204 @@
+{
+  "name": "Azure Public Service Icons",
+  "id": "azure-public",
+  "icons": [
+    {
+      "id": "azure-batch-ai",
+      "name": "Batch AI",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00028-icon-service-Batch-AI.svg"
+    },
+    {
+      "id": "azure-machine-learning-studio-classic-web-services",
+      "name": "Machine Learning Studio (Classic) Web Services",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00030-icon-service-Machine-Learning-Studio-(Classic)-Web-Services.svg"
+    },
+    {
+      "id": "azure-genomics",
+      "name": "Genomics",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00031-icon-service-Genomics.svg"
+    },
+    {
+      "id": "azure-computer-vision",
+      "name": "Computer Vision",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00792-icon-service-Computer-Vision.svg"
+    },
+    {
+      "id": "azure-custom-vision",
+      "name": "Custom Vision",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00793-icon-service-Custom-Vision.svg"
+    },
+    {
+      "id": "azure-face-apis",
+      "name": "Face APIs",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00794-icon-service-Face-APIs.svg"
+    },
+    {
+      "id": "azure-content-moderators",
+      "name": "Content Moderators",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00795-icon-service-Content-Moderators.svg"
+    },
+    {
+      "id": "azure-personalizers",
+      "name": "Personalizers",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00796-icon-service-Personalizers.svg"
+    },
+    {
+      "id": "azure-speech-services",
+      "name": "Speech Services",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00797-icon-service-Speech-Services.svg"
+    },
+    {
+      "id": "azure-qna-makers",
+      "name": "QnA Makers",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00799-icon-service-QnA-Makers.svg"
+    },
+    {
+      "id": "azure-translator-text",
+      "name": "Translator Text",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00800-icon-service-Translator-Text.svg"
+    },
+    {
+      "id": "azure-language-understanding",
+      "name": "Language Understanding",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00801-icon-service-Language-Understanding.svg"
+    },
+    {
+      "id": "azure-immersive-readers",
+      "name": "Immersive Readers",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00812-icon-service-Immersive-Readers.svg"
+    },
+    {
+      "id": "azure-anomaly-detector",
+      "name": "Anomaly Detector",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00814-icon-service-Anomaly-Detector.svg"
+    },
+    {
+      "id": "azure-form-recognizers",
+      "name": "Form Recognizers",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/00819-icon-service-Form-Recognizers.svg"
+    },
+    {
+      "id": "azure-experimentation-studio",
+      "name": "Azure Experimentation Studio",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/01239-icon-service-Azure-Experimentation-Studio.svg"
+    },
+    {
+      "id": "azure-object-understanding",
+      "name": "Azure Object Understanding",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/01688-icon-service-Azure-Object-Understanding.svg"
+    },
+    {
+      "id": "azure-metrics-advisor",
+      "name": "Metrics Advisor",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/02409-icon-service-Metrics-Advisor.svg"
+    },
+    {
+      "id": "azure-applied-ai-services",
+      "name": "Azure Applied AI Services",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/02749-icon-service-Azure-Applied-AI-Services.svg"
+    },
+    {
+      "id": "azure-language",
+      "name": "Language",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/02876-icon-service-Language.svg"
+    },
+    {
+      "id": "azure-cognitive-services-decisions",
+      "name": "Cognitive Services Decisions",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/03173-icon-service-Cognitive-Services-Decisions.svg"
+    },
+    {
+      "id": "azure-serverless-search",
+      "name": "Serverless Search",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/03321-icon-service-Serverless-Search.svg"
+    },
+    {
+      "id": "azure-bonsai",
+      "name": "Bonsai",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/03337-icon-service-Bonsai.svg"
+    },
+    {
+      "id": "azure-content-safety",
+      "name": "Content Safety",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/03390-icon-service-Content-Safety.svg"
+    },
+    {
+      "id": "azure-openai",
+      "name": "Azure OpenAI",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/03438-icon-service-Azure-OpenAI.svg"
+    },
+    {
+      "id": "azure-ai-studio",
+      "name": "AI Studio",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/03513-icon-service-AI-Studio.svg"
+    },
+    {
+      "id": "azure-cognitive-search",
+      "name": "Cognitive Search",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/10044-icon-service-Cognitive-Search.svg"
+    },
+    {
+      "id": "azure-cognitive-services",
+      "name": "Cognitive Services",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/10162-icon-service-Cognitive-Services.svg"
+    },
+    {
+      "id": "azure-genomics-accounts",
+      "name": "Genomics Accounts",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/10164-icon-service-Genomics-Accounts.svg"
+    },
+    {
+      "id": "azure-bot-services",
+      "name": "Bot Services",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/10165-icon-service-Bot-Services.svg"
+    },
+    {
+      "id": "azure-machine-learning",
+      "name": "Machine Learning",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/10166-icon-service-Machine-Learning.svg"
+    },
+    {
+      "id": "azure-machine-learning-studio-workspaces",
+      "name": "Machine Learning Studio Workspaces",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/10167-icon-service-Machine-Learning-Studio-Workspaces.svg"
+    },
+    {
+      "id": "azure-machine-learning-studio-web-service-plans",
+      "name": "Machine Learning Studio Web Service Plans",
+      "category": "AI + Machine Learning",
+      "url": "Azure_Public_Service_Icons/Icons/ai + machine learning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg"
+    }
+  ]
+}

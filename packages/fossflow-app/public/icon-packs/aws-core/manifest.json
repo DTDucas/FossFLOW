@@ -1,0 +1,120 @@
+{
+  "name": "AWS Core Products Icons",
+  "id": "aws-core",
+  "icons": [
+    {
+      "id": "aws-core-ai-hypercomputer",
+      "name": "AI Hypercomputer",
+      "category": "General",
+      "url": "Unique Icons/AI Hypercomputer/SVG/AIHypercomputer-512-color.svg"
+    },
+    {
+      "id": "aws-core-alloydb",
+      "name": "AlloyDB",
+      "category": "General",
+      "url": "Unique Icons/AlloyDB/SVG/AlloyDB-512-color.svg"
+    },
+    {
+      "id": "aws-core-anthos",
+      "name": "Anthos",
+      "category": "General",
+      "url": "Unique Icons/Anthos/SVG/Anthos-512-color.svg"
+    },
+    {
+      "id": "aws-core-apigee",
+      "name": "Apigee",
+      "category": "General",
+      "url": "Unique Icons/Apigee/SVG/Apigee-512-color-rgb.svg"
+    },
+    {
+      "id": "aws-core-bigquery",
+      "name": "BigQuery",
+      "category": "General",
+      "url": "Unique Icons/BigQuery/SVG/BigQuery-512-color.svg"
+    },
+    {
+      "id": "aws-core-cloud-run",
+      "name": "Cloud Run",
+      "category": "General",
+      "url": "Unique Icons/Cloud Run/SVG/CloudRun-512-color-rgb.svg"
+    },
+    {
+      "id": "aws-core-cloud-spanner",
+      "name": "Cloud Spanner",
+      "category": "General",
+      "url": "Unique Icons/Cloud Spanner/SVG/CloudSpanner-512-color.svg"
+    },
+    {
+      "id": "aws-core-cloud-sql",
+      "name": "Cloud SQL",
+      "category": "General",
+      "url": "Unique Icons/Cloud SQL/SVG/CloudSQL-512-color.svg"
+    },
+    {
+      "id": "aws-core-cloud-storage",
+      "name": "Cloud Storage",
+      "category": "General",
+      "url": "Unique Icons/Cloud Storage/SVG/Cloud_Storage-512-color.svg"
+    },
+    {
+      "id": "aws-core-compute-engine",
+      "name": "Compute Engine",
+      "category": "General",
+      "url": "Unique Icons/Compute Engine/SVG/ComputeEngine-512-color-rgb.svg"
+    },
+    {
+      "id": "aws-core-distributed-cloud",
+      "name": "Distributed Cloud",
+      "category": "General",
+      "url": "Unique Icons/Distributed Cloud/SVG/DistributedCloud-512-color.svg"
+    },
+    {
+      "id": "aws-core-gke",
+      "name": "GKE",
+      "category": "General",
+      "url": "Unique Icons/GKE/SVG/GKE-512-color.svg"
+    },
+    {
+      "id": "aws-core-hyperdisk",
+      "name": "Hyperdisk",
+      "category": "General",
+      "url": "Unique Icons/Hyperdisk/SVG/Hyperdisk-512-color.svg"
+    },
+    {
+      "id": "aws-core-looker",
+      "name": "Looker",
+      "category": "General",
+      "url": "Unique Icons/Looker/SVG/Looker-512-color.svg"
+    },
+    {
+      "id": "aws-core-mandiant",
+      "name": "Mandiant",
+      "category": "General",
+      "url": "Unique Icons/Mandiant/SVG/Mandiant-512-color.svg"
+    },
+    {
+      "id": "aws-core-security-command-center",
+      "name": "Security Command Center",
+      "category": "General",
+      "url": "Unique Icons/Security Command Center/SVG/SecurityCommandCenter-512-color.svg"
+    },
+    {
+      "id": "aws-core-security-operations",
+      "name": "Security Operations",
+      "category": "General",
+      "url": "Unique Icons/Security Operations/SVG/SecOps-512-color-rgb.svg"
+    },
+    {
+      "id": "aws-core-threat-intelligence",
+      "name": "Threat Intelligence",
+      "category": "General",
+      "url": "Unique Icons/Threat Intelligence/SVG/ThreatIntelligence-512-color.svg"
+    },
+    {
+      "id": "aws-core-vertex-ai",
+      "name": "Vertex AI",
+      "category": "General",
+      "url": "Unique Icons/Vertex AI/SVG/VertexAI-512-color.svg"
+    }
+  ]
+}
